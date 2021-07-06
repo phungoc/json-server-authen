@@ -1,4 +1,6 @@
-# Json server with authen for CCSMS
+# Json server with authen
+
+Live demo: https://json-server-authen.herokuapp.com/api/products
 
 Install JSON Server (open cmd with administrator)
 
